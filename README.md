@@ -11,7 +11,6 @@ If the game terminates with the appearance of x (y), player 1 (2) wins.<br>
 This program takes as input the strings x and y, and outputs the probability that A wins. <br>
 <br>
 <br>
-<br>
 Please See "CS 454 Project Writeup.pdf" for an in depth report of the Program <br>
 This report includes and Analysis of the Algorithm used with Time Complexity,<br> 
 Description of the Input and Output with Examples, <br> 
