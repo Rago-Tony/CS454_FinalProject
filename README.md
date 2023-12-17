@@ -12,6 +12,6 @@ This program takes as input the strings x and y, and outputs the probability tha
 <br>
 <br>
 <br>
-Please See "CS 454 Project Writeup" for an in depth report of the Program <br>
+Please See "CS 454 Project Writeup.pdf" for an in depth report of the Program <br>
 This report includes and Analysis of the Algorithm used with Time Complexity, Description of the Input and Output with Examples <br> 
 and Pseudo Code summarizing the function calls and "steps" the program makes<br>
