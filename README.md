@@ -1,4 +1,4 @@
-Authors - Nicolas Randazzo | Tony Rago <br>
+Authors - Nic Randazzo | Tony Rago <br>
 Course | Professor - CS 454 Theory of Computation | Dr. Balasubramanian Ravikumar <br>
 Due Date - 12/17/2023 <br>
 
